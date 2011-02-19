@@ -1,2 +1,2 @@
-szachy: dupa.cpp
-	g++ -std=c++0x dupa.cpp -o szachy
+szachy: szachy.cpp
+	g++ -std=c++0x szachy.cpp -o szachy
